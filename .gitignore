@@ -9,3 +9,4 @@ tests/output
 boris_behav_obs.egg-info
 .venv
 uv.lock
+.file_activity_report.json
